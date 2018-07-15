@@ -1,0 +1,91 @@
+<style>
+									/* top of the page  header + Navbar */
+header{
+	color: red;
+}
+
+#attar{ 
+	text-align: center;
+	text:blue;
+	border-width: 100%;
+	margin-right:100px;
+	padding: 50px;
+	/*background*/
+	background-image: url(https://www.codefactory.wien/www/test/wp-content/uploads/2016/12/codefactory-vienna-1.png);
+	background-repeat: no-repeat;
+	background-width:100%;
+	background-color: red;
+	background-size: 420px;
+}
+									/* gray navbar*/
+nav,ul,li{
+	background-width:100%;
+	display: flex;
+	background-color: lightgray;
+	padding right: 50px;
+	margin-right:100px;
+	list-style-type: none;
+}
+									/* this is image secktion*/
+#f1{
+	padding right: 50px;
+	margin-right:300px;
+	padding-left: 50px;
+	text-align-last
+  }
+  #f3{
+  	padding-left: 50px;
+  }
+
+ #f4{
+  	padding right: 100px;
+	margin-right:300px;
+	padding-left: 300px;
+}
+img{
+	height: 300px;
+	width: 300px;
+}
+									/* end of imge section */
+		/*texes style*/
+
+#d,#b{
+	border:white solid 2px;width: 300px;
+	text-align: center;
+	margin-left:655px;
+	margin-bottom: 50px;
+}
+#c,#a{ 
+	border:white solid 2px;width: 300px;
+	margin-top: 50px;
+	margin-left: 40px;
+	
+
+}
+
+h1{
+	text-align: right;
+	border-width:red solid 1px;
+}
+
+
+
+
+								 	/* down of the page pure red bar */
+.bar{
+		border-width: 100%;
+		background-width:100%;
+		background-color: red;
+		background-size: 420px;
+		border-width: 100%;
+		margin-right:100px;
+		padding: 50px;
+}
+h3{
+	text-align: center;
+	color:white;
+	size:100cm;
+}
+
+
+</style>
